@@ -11,3 +11,5 @@
 + Password Protected 设置密码保护网站，也可以防止机器人
 
 一共启用了13个
+
+sql文件在db目录内[跳转](./db/wordpress.sql)
