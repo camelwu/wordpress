@@ -1,0 +1,338 @@
+# Translation of Plugins - IP2Location Redirection - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - IP2Location Redirection - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-15 04:39:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - IP2Location Redirection - Stable (latest release)\n"
+
+#: ip2location-redirection.php:1754
+msgid "Skip & Deactivate"
+msgstr "跳过并停用"
+
+#: ip2location-redirection.php:1751
+msgid "Submit & Deactivate"
+msgstr "提交并停用"
+
+#: ip2location-redirection.php:1724
+msgid "Would you mind sharing with us the reason to deactivate the plugin?"
+msgstr "您愿意与我们分享您停用此插件的原因吗？"
+
+#: ip2location-redirection.php:1711
+msgid "Enjoyed %1$s? Please leave us a %2$s rating. A huge thanks in advance!"
+msgstr "享受 %1$s 吗？请为我们留下 %2$s 评分。先在此表示十分的谢意！"
+
+#: ip2location-redirection.php:1372
+msgid "Redirection disabled."
+msgstr "重定向已禁用。"
+
+#: ip2location-redirection.php:1326
+msgid "Enable Debugging Log"
+msgstr "启用调试日志"
+
+#: ip2location-redirection.php:1287
+msgid "API Key"
+msgstr "API密钥"
+
+#: ip2location-redirection.php:1238
+msgid "Update Database"
+msgstr "更新数据库"
+
+#: ip2location-redirection.php:1226
+msgid "Database Date"
+msgstr "数据库日期"
+
+#: ip2location-redirection.php:1218
+msgid "Database Path"
+msgstr "数据库路径"
+
+#: ip2location-redirection.php:1213
+msgid "Database file not found."
+msgstr "未找到数据库文件。"
+
+#: ip2location-redirection.php:1210
+msgid "Database File"
+msgstr "数据库文件"
+
+#: ip2location-redirection.php:1200
+msgid "Download IPv4 database only"
+msgstr "只下载IPv4数据库"
+
+#: ip2location-redirection.php:1150
+msgid "Settings"
+msgstr "设置"
+
+#: ip2location-redirection.php:1105 ip2location-redirection.php:1118
+msgid "Invalid IP2Location API key."
+msgstr "无效的IP2Location API 密钥。"
+
+#: ip2location-redirection.php:1096
+msgid "Error when accessing IP2Location web service gateway."
+msgstr "访问 IP2Location Web 服务网关时出错。"
+
+#: ip2location-redirection.php:1040
+msgid "Lookup"
+msgstr "查找"
+
+#: ip2location-redirection.php:1034
+msgid "Enter a valid IP address to lookup for country information."
+msgstr "输入一个有效的IP 地址以查找国家信息。"
+
+#: ip2location-redirection.php:1031
+msgid "IP Address"
+msgstr "IP地址"
+
+#: ip2location-redirection.php:1024
+msgid "IP Lookup"
+msgstr "IP 查找"
+
+#: ip2location-redirection.php:997
+msgid "Please enter a valid IP address."
+msgstr "请输入有效的IP地址。"
+
+#: ip2location-redirection.php:996 ip2location-redirection.php:1007
+#: ip2location-redirection.php:1095 ip2location-redirection.php:1104
+#: ip2location-redirection.php:1117
+msgid "ERROR"
+msgstr "错误"
+
+#: ip2location-redirection.php:974
+msgid "Done"
+msgstr "完成"
+
+#: ip2location-redirection.php:971
+msgid "Congratulations! You have completed the setup."
+msgstr "恭喜！您已完成设置。"
+
+#: ip2location-redirection.php:962
+msgid "Finish"
+msgstr "完成"
+
+#: ip2location-redirection.php:928
+msgid "Previous"
+msgstr "上一步"
+
+#: ip2location-redirection.php:904
+msgid "Download IP2Location Database"
+msgstr "下载IP2Location 数据库"
+
+#: ip2location-redirection.php:897 ip2location-redirection.php:929
+msgid "Next"
+msgstr "下一步"
+
+#: ip2location-redirection.php:888
+msgid "Enter IP2Location LITE download token"
+msgstr "请输入 IP2Location LITE 下载令牌"
+
+#: ip2location-redirection.php:879 ip2location-redirection.php:917
+#: ip2location-redirection.php:949
+msgid "Step 3"
+msgstr "步骤 3"
+
+#: ip2location-redirection.php:875 ip2location-redirection.php:913
+#: ip2location-redirection.php:945
+msgid "Step 2"
+msgstr "步骤 2"
+
+#: ip2location-redirection.php:871 ip2location-redirection.php:909
+#: ip2location-redirection.php:941
+msgid "Step 1"
+msgstr "步骤 1"
+
+#: ip2location-redirection.php:866
+msgid "Sign Up IP2Location LITE"
+msgstr "注册 IP2Location LITE"
+
+#: ip2location-redirection.php:749 ip2location-redirection.php:1336
+msgid "Save Changes"
+msgstr "保存修改"
+
+#: ip2location-redirection.php:701
+msgid "Status"
+msgstr "状态"
+
+#: ip2location-redirection.php:700
+msgid "Destination"
+msgstr "目的地"
+
+#: ip2location-redirection.php:699
+msgid "From"
+msgstr "由"
+
+#: ip2location-redirection.php:698
+msgid "Location"
+msgstr "地点"
+
+#: ip2location-redirection.php:681
+msgid "Enable Redirection"
+msgstr "启用重定向"
+
+#: ip2location-redirection.php:671
+msgid "Rules"
+msgstr "规则"
+
+#: ip2location-redirection.php:664 ip2location-redirection.php:1141
+msgid "Changes saved."
+msgstr "修改已保存。"
+
+#: ip2location-redirection.php:561 ip2location-redirection.php:572
+msgid "%1$s is not a valid URL."
+msgstr "%1$s 不是有效 URL。"
+
+#: ip2location-redirection.php:421 ip2location-redirection.php:1744
+msgid "Other concerns"
+msgstr "其他原因"
+
+#: ip2location-redirection.php:420 ip2location-redirection.php:1739
+msgid "The plugin doesn't meet my requirements"
+msgstr "此插件没有达到我的要求"
+
+#: ip2location-redirection.php:419 ip2location-redirection.php:1734
+msgid "I couldn't get the plugin to work"
+msgstr "我无法让插件工作"
+
+#: ip2location-redirection.php:418 ip2location-redirection.php:1729
+msgid "I no longer need the plugin"
+msgstr "我不再需要这个插件了"
+
+#: ip2location-redirection.php:356
+msgid "Invalid download token."
+msgstr "无效下载令牌。"
+
+#. Author URI of the plugin
+msgid "https://www.ip2location.com"
+msgstr "https://www.ip2location.com"
+
+#. Author of the plugin
+msgid "IP2Location"
+msgstr "IP2Location"
+
+#. Plugin URI of the plugin
+msgid "https://ip2location.com/resources/wordpress-ip2location-redirection"
+msgstr "https://ip2location.com/resources/wordpress-ip2location-redirection"
+
+#. Plugin Name of the plugin
+#: ip2location-redirection.php:841 ip2location-redirection.php:1712
+msgid "IP2Location Redirection"
+msgstr "IP2Location Redirection"
+
+#: ip2location-redirection.php:1180
+msgid "Enter your IP2Location download token."
+msgstr "请输入您的 IP2Location 下载令牌。"
+
+#: ip2location-redirection.php:1175
+msgid "Download Token"
+msgstr "下载令牌"
+
+#: ip2location-redirection.php:1163
+msgid "API Web Service"
+msgstr "API 网络服务"
+
+#: ip2location-redirection.php:1162
+msgid "Local BIN Database"
+msgstr "本地 BIN 数据库"
+
+#: ip2location-redirection.php:1158
+msgid "Lookup Mode"
+msgstr "查找模式"
+
+#: ip2location-redirection.php:958
+msgid "Please press the finish button and configure your redirection rule."
+msgstr "请点击完成按钮并设置您的重定向规则。"
+
+#: ip2location-redirection.php:936
+msgid "Setup Rules"
+msgstr "设置规则"
+
+#: ip2location-redirection.php:1008
+msgid "Unable to lookup IP address %1$s."
+msgstr "无法查找IP地址 %1$s。"
+
+#: ip2location-redirection.php:1015
+msgid "IP address %1$s belongs to %2$s."
+msgstr "IP地址 %1$s 属于 %2$s。"
+
+#: ip2location-redirection.php:1328
+msgid "Debug log will store under %1s."
+msgstr "调试日志将存储在 %1s。"
+
+#: ip2location-redirection.php:1307
+msgid "Available Credit"
+msgstr "可用余额"
+
+#: ip2location-redirection.php:851 ip2location-redirection.php:856
+msgid "Get Started"
+msgstr "快速入门"
+
+#: ip2location-redirection.php:718
+msgid "Please enter IP address or CIDR notation."
+msgstr "请输入IP 地址或CIDR 符号。"
+
+#: ip2location-redirection.php:713
+msgid "Exclude the below IP addresses from redirection:"
+msgstr "从重定向中排除以下 IP 地址："
+
+#: ip2location-redirection.php:515 ip2location-redirection.php:526
+msgid "%1$s is not a domain name."
+msgstr "%1$s 不是一个域名。"
+
+#: ip2location-redirection.php:278
+msgid "There is problem when decompress the database."
+msgstr "在解压缩数据库时出现了问题。"
+
+#: ip2location-redirection.php:263
+msgid "Downloaded database is corrupted. Please try again later."
+msgstr "下载好的数据库已损坏。请稍后再试。"
+
+#: ip2location-redirection.php:91
+msgid "IP2Location Redirection requires the IP2Location BIN database to work. <a href=\""
+msgstr "IP2Location Redirection 需要 IP2Location BIN 数据库来运作。<a href=\""
+
+#: ip2location-redirection.php:689
+msgid "Redirect on first visit only"
+msgstr "只在首次访问时进行重定向"
+
+#: ip2location-redirection.php:1192
+msgid "A larger database will be downloaded. Disable this option if your system has limited resources."
+msgstr "一个更大的数据库会被下载。如果您的系统没有充足的资源，请禁用此选项。"
+
+#: ip2location-redirection.php:734
+msgid "Ignore query strings and parameters when matching page."
+msgstr "在匹配页面时忽略查询字符串和参数。"
+
+#: ip2location-redirection.php:726
+msgid "Skip redirection if %1$s found in URL. For example,"
+msgstr "如果在链接里发现 %1$s 则跳过重定向。例如，"
+
+#: ip2location-redirection.php:221
+msgid "You do not have permission to download this database."
+msgstr "您没有足够的权限下载这个数据库。"
+
+#. Description of the plugin
+msgid "Redirect visitors by their country."
+msgstr "按国家/地区重定向访客。"
+
+#: ip2location-redirection.php:742
+msgid "Do not redirect bots and crawlers."
+msgstr "不要重定向机器人和爬虫。"
+
+#: ip2location-redirection.php:841
+msgid "is a plugin to redirect visitor by their location"
+msgstr "是一个根据访客的位置来重定向访客的插件。"
+
+#: ip2location-redirection.php:849
+msgid "IP2Location requires %1$s PHP extension enabled. Please enable this extension in your %2$s."
+msgstr "IP2Location 需要启用 %1$s PHP 扩展。请在您的 %2$s 启用这个扩展。"
+
+#: ip2location-redirection.php:250
+msgid "No permission to write into file system."
+msgstr "没有写入文件系统的权限。"
+
+#: ip2location-redirection.php:240
+msgid "Connection timed out while downloading database."
+msgstr "下载数据库时连接超时。"

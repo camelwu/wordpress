@@ -1,0 +1,6 @@
+2023-02-23T03:47:02+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Failed to connect to api.pinterest.com port 443 after 5318 ms: Operation timed out
+2023-02-23T03:48:08+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 28: Failed to connect to api.pinterest.com port 443 after 5068 ms: Operation timed out
